@@ -99,7 +99,7 @@ def display_transcriptions(frame, transcriptions, partial_transcription, x0, y0,
     """Combine finalized and partial transcriptions and display them on the frame."""
     jp = True
     
-    #if jp == True:
+    if jp == True:
     max_length =    5
     
     lines = []
