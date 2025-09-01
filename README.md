@@ -1,0 +1,1 @@
+An AI-powered transcription system designed for Augmented Reality (AR) and Virtual Reality (VR) platforms. The app enables real-time, low-latency speech-to-text conversion, improving accessibility, productivity, and collaboration in immersive environments.
