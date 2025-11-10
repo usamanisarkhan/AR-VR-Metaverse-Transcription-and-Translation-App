@@ -2,17 +2,12 @@
 
 An AI-powered transcription and translation system designed for Augmented Reality (AR) and Virtual Reality (VR) platforms.  
 This app enables real-time, low-latency speech-to-text and translation conversion, improving accessibility, productivity, and collaboration in immersive environments.
-
----
-
 ## 🚀 Features
 
 - Real-time speech-to-text transcription from video/audio input  
 - Translation of transcribed text into different languages (if implemented)  
 - Designed for AR/VR use-cases where latency and clarity matter  
 - Easy to test locally with sample video inputs  
-
----
 
 ## 📁 Repository Structure
 
@@ -26,15 +21,11 @@ AR-VR-Metaverse-Transcription-and-Translation-App/
 yaml
 Copy code
 
----
-
 ## 🛠 Prerequisites
 
 - Python 3.7+  
 - Required Python packages (listed below)  
 - Working microphone / video sample for testing (if needed)  
-
----
 
 ## 🔧 Setup & Installation
 
